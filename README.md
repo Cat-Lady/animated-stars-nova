@@ -2,7 +2,7 @@
 
 Undisruptive Animated Stars for Endless Sky. Updated to work with latest ES (0.9.9+) and maintained to be compatible in future.
 
-![Animated Stars Nova Image](/images/b5~0@2x.gif?raw=true "Animated Stars Nova Image")
+![Animated Stars Nova Image](/../images/b5~0@2x.gif?raw=true "Animated Stars Nova Image")
 
 
 ## Features
