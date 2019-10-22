@@ -2,6 +2,8 @@
 
 Undisruptive Animated Stars for Endless Sky. Updated to work with latest ES (0.9.9+) and maintained to be compatible in future.
 
+![Animated Stars Nova Image](/animated-stars-nova/icon.png?raw=true "Animated Stars Nova Image")
+
 
 ## Features
 
@@ -10,16 +12,22 @@ Undisruptive Animated Stars for Endless Sky. Updated to work with latest ES (0.9
 - Full integration with dynamic fuel/solar energy gathering.
 
 
-
-
-### Installing
+## Installing
 
 Check:
 https://github.com/Cat-Lady/animated-stars-nova/releases
+
 ...for latest, pre-packaged version.
 
-Unpack to your ES plugins folder. Be sure that you have single ``animated-stars-nova`` directory inside your plugin folder, containing ``data`` and ``images`` directories - it **won't** work if the directory structure will be anything like:
+**1.** Unpack ``animated-stars-nova`` to your ES plugins folder. Be sure that you have single ``animated-stars-nova`` directory inside your plugins folder, containing ``data`` and ``images`` folder. Directory structure should look like:
+
+```(...)/plugins/animated-stars-nova/(.../data/, /images/ and other stuff)```
+
+
+It **won't** work if the directory structure will be anything like:
+
 ```(...)/plugins/animated-stars-nova/animated-stars-nova/(...)```
+
 
 ## Author
 
