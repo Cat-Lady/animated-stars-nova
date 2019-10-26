@@ -44,4 +44,4 @@ This project is licensed under the GPL3 License - see the [LICENSE.md](LICENSE.m
 
 "Endless Sky" Development Team and Michael Zahniser; For maintaining and creating the game
 
-Amazinite (Derpy Horse); for the great work on the animated sun frames.
+Amazinite (Derpy Horse); for the great work on the animated sun's frames.
