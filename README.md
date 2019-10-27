@@ -1,6 +1,6 @@
 # Animated Stars Nova
 
-Undisruptive Animated Stars for Endless Sky. Updated to work with latest ES (0.9.9+) and maintained to be compatible in future.
+Undisruptive Animated Stars for Endless Sky. Updated to work with latest ES (0.9.10+) and maintained to be compatible in future.
 
 ![Animated Stars Nova Image](/animated-stars-nova/images/star/star-animated/k5~2@2x.png?raw=true "Animated Stars Nova Image")
 
