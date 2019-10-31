@@ -1,0 +1,51 @@
+Undisruptive Animated Stars for Endless Sky. Updated to work with latest ES (0.9.10+) and maintained to be compatible in future.
+
+
+
+[h1]Features[/h1]
+
+[list][*]Every star system was hand-tweaked for the star to match lore/star type of vanilla Endless Sky.
+ 
+[*]Full integration with dynamic fuel/solar energy gathering.
+
+
+
+[h1]Installing[/h1]
+
+Check:
+https://github.com/Cat-Lady/animated-stars-nova/releases
+
+...for latest, pre-packaged version.
+
+
+[b]1.[/b] Unpack [i]animated-stars-nova[/i] to your ES plugins folder. Be sure that you have single [i]animated-stars-nova[/i] directory inside your plugins folder, containing [i]data[/i] and [i]images[/i] folders. Directory structure should look like:
+
+[code](...)/plugins/animated-stars-nova/(.../data/, /images/ and other stuff)[/code]
+
+It [b]won't[/b] work if the directory structure will be anything like:
+
+[code](...)/plugins/animated-stars-nova/animated-stars-nova/(...)[/code]
+
+
+
+
+
+[h1]Author[/h1]
+
+[list][*][b]Cat Lady[/b][/list]
+
+[i]Initial work[/i] - [url=https://github.com/Amazinite]Derpy Horse[/url]
+
+
+
+[h1]License[/h1]
+
+This project is licensed under the GPL3 License - see the LICENSE.md file for details.
+
+
+
+[h1]Acknowledgments[/h1]
+
+"Endless Sky" Development Team and Michael Zahniser; For maintaining and creating the game
+
+Amazinite (Derpy Horse); for the great work on the animated sun's frames.
