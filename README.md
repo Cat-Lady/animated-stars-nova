@@ -1,3 +1,5 @@
+#### This plugin is a part of upcoming "Endless Sky: Captain's Edition" reboot of the base game. Stay tuned - meanwhile, installing the plugins can help to preview the experience, together or in parts.
+
 # Animated Stars Nova
 
 Undisruptive Animated Stars for Endless Sky. Updated to work with latest ES (0.9.10+) and maintained to be compatible in future.
